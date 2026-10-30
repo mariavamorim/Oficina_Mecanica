@@ -1,4 +1,4 @@
-# Banco de Dados — *Oficina Mecânica*
+# 🧰 Banco de Dados — *Oficina Mecânica*
 
 ## Integrantes:
 * Acosta
@@ -15,7 +15,7 @@ Este projeto consiste em um banco de dados para uma oficina mecânica, desenvolv
 * MySQL Workbench
 * SQL
 
-# Estrutura do banco de dados
+# 🛠️  Estrutura do banco de dados
 ## O banco de dados possui 7 tabelas:
 * clientes
 * veiculos
@@ -37,7 +37,7 @@ Este projeto consiste em um banco de dados para uma oficina mecânica, desenvolv
 * TRIGGER para atualização automática do estoque
 * CREATE USER, GRANT e REVOKE
 
-# Como executar o projeto
+# ⚙️ Como executar o projeto
 ## Execute os arquivos SQL na seguinte ordem:
 * 01_schema_ddl.sql — criação do banco e das tabelas.
 * 02_carga_dml.sql — inserção dos dados iniciais.
